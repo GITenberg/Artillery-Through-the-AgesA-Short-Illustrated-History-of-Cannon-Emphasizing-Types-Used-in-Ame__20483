@@ -1,0 +1,28 @@
+_repo: Artillery-Through-the-AgesA-Short-Illustrated-History-of-Cannon-Emphasizing-Types-Used-in-Ame__20483
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Manucy, Albert C.
+    gutenberg_agent_id: '9327'
+    url: http://www.gutenberg.org/2009/agents/9327
+description: ''
+gutenberg_issued: '2007-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UF'
+- !lcsh 'United States. Army -- Ordnance and ordnance stores'
+- !lcsh 'Artillery -- History'
+- !lcc 'E151'
+title: 'Artillery Through the Ages
+
+  A Short Illustrated History of Cannon, Emphasizing Types Used in America'
+url: http://www.gutenberg.org/ebooks/20483
